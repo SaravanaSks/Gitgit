@@ -1,2 +1,0 @@
-# Gitgit
-Demo
