@@ -1,0 +1,14 @@
+SUMMARY 13-10-2021:
+
+    For today, I have gone through the Database again, and also studied the Object oriented database. Object oriented database system that can work with complex data objects, And i'm still not understand it well, and trying to know  more about that and database structures and its functions, And then my mentor gave me a task to do, that is asked me to develop the app for the filmmakers and producer for the communications and overall informations about the Films they are working like budgets, casting and  budget spent for films. Develop means to list down the required features.
+
+    This was really very fun for me do which I’m always interested about, So first I have written the features for login page, and the required elements for that, And then It needs a Homepage which uses to navigate user or admin to use the other features and responding as UI. It also has some more tabs to be used. And this app used to show the overall wallet money, how much was spent, how much was left, and the entire transaction history for the movie.
+
+    And written the features for admin and user(filmmaker) The Admin has the overall access to do in this app where the user doesn't have few features. Because the producer has to give the access for the users by entering their authenticated email and mobile number in this to avoid the unwanted logins and violations. And the user can see the films which they are working on along with this same producer. And producer can see the entire information of films what they are produce,
+
+    Also used to make communication between producer and filmmaker by chatbox, and it has settings to change themes and used to change the privacy, and search option to search the chat of an individual person. And also it has an Estimator option to estimate the overall budget by listing the objects and properties, locations and other essential requirements. And also setting and me options to edit what the app need to be as per the user or admin desires,
+
+    And then I had a few minutes with my mentor, and asked about how to learn new things about programming and techs, he told me to find out what i’m interested about. And also said it has many things so I have to learn what I need to, Also explained to me a little bit about API(Application Programming Interface) is a backend used to allow two applications to talk to each other. I found that while browsing the web it's a really complicated thing to know before I  understand the fundamentals of that. 
+
+    And I'm still trying to learn new things on my own.
+

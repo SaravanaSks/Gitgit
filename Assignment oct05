@@ -1,0 +1,93 @@
+ASSIGNMENT 05-10-2021
+
+
+    For today, I have learnt how the HTML works, the text is saved as a html file, and viewed through a browser. This markup tells a web browser how to display text, images and other forms of multimedia on a webpage. Also learnt some codes using in HTML like,
+
+<head> - is used to create the header to shown in browser
+<title> - to create the title
+<p> used to write the paragraph
+<body> - which contains the entire content like headings, paragraphs, images, hyperlinks
+<pre> - displayed in a fixed-width font,
+<hr> - represents a thematic break between paragraph-level elements,
+<mark> - used to highlight the lines
+<b> - used to make the font bolder 
+
+Also tried something in it,
+
+After that, I learnt about algorithms. Algorithms are used to make sure the computer will do the given task.  Also used to solve the problems by analysing it step by step. It used to improve the efficiency of a computer program which means to find the possible way to solve problems. And then also wrote algorithm for a program Adding to numbers,
+
+Algorithm:
+1. Choose any two numbers
+2. Check whether its -number or +number
+3. Add that numbers
+4. Check if there is need of calculator to add number
+5. If you have calculator add these numbers, or else
+6. Go to shop to buy a calculator
+7. Check wallet it has a cash,
+8. If not take a cash and go to shop
+9. Ask the shopkeeper for a calculator and buy it
+10.Come back to home
+11.Go to Step 3
+12. If the -number is larger than + number then answer will be in -number
+13. If the - number is less than +number then answer will be in +number.
+14. Find the answer.
+
+And then also tried in different perspective along with the previous one,
+
+
+
+1.select any two numbers
+2.Check whether its -number or +number
+3.Also check is it smaller or larger number to add
+4. If small add these number
+5. Find the answer
+6.If larger number use system to add these
+7.turn on the computer
+8.Check the system is working or not
+9.If working solve add these number
+10.If not working, try to add these numbers normally
+11. Select step 5
+12. If can’t add these numbers, try to get some help from others
+13. Approach anyone to get help
+14. If they helps, select step 5
+15. If they don’t, try to find the answer by using internet via phone
+16. If internet works, select step 5
+17.If not working, check the network and data
+18. If there is no network wait until it comes back
+19.if data exhausted, recharge it
+20. Once completed, add these numbers
+21. f the -number is larger than + number then answer will be in -number
+22. If the - number is less than +number then answer will be in +number.
+23. Find the answer.select step 5.
+
+
+And then i have wrote the algorithm for another program Going out:
+
+1. Get the car key from hanger or table where it kept
+2. Come out of the house by opening the door
+3. if door locked get the key to unlock it
+4. select step 2.
+5. unlock the care by using the remote access
+6. get in the car
+7. If remote access not working use the key to unlock the car door.
+8. select the step 6
+9. start the car
+10. get out
+11. If the car not starts check the fuel
+12. car has a fuel but i won't start call the mechanic
+13. if car has no fuel, get the fuel from bunk
+14. if get the fuel fill it
+15. step 9
+16. step 10
+17. if mechanic came and fixed the problem
+18. select step 9 and step 10
+19. if mechanic not available try to fix it yourself
+20. if can't fix it Book a cab
+21. select step 10
+22. if cab not available ask friend to take you out
+23. select step 10.
+24. if friend not avaibale at a time wait for the mechanic or cab to get later sometime
+25. select step 10.
+
+
+

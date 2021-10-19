@@ -1,0 +1,19 @@
+Summary 06-10-2021
+
+
+
+This morning we had a session with sreeram. He showed us how to develop the App by using the Flutter, Also showed how to authenticate the app by using the firebase, And he created the login page for the employee app. Also he was trying to create another page which should be the next page after the login page. And also taught us how logins of apps works,when the user trying to login the app programmed to respond like, it should  logged in or should show some error like password incorrect or User not identified. And once the user logging in the token will be generated along with secondary token, token only has a validity time upto 5 minutes while  the secondary one has 3 months  of validity, and tooken will generate the above response and also secondary token used to get the initial token 5 minutes once. Also said if the app is developing it should be initialized then only it will work or else we have to  initialize once it is done. 
+
+
+And then I have learnt about pseudocode, pseudo code is an artificial and informal language that helps programmers to develop algorithms. It shows the dependencies are to be indented. Also a text based detail similar to algorithms.  It is used as a phrase to write the code for a program before creating it in a specific language which means planning the algorithms with sketching out the structure before the actual coding takes place. It  is an efficient key principle of an algorithm.
+
+Also it is like a blueprint to create a program, it helps to build the conceptual model how the program will or should work. It also used to know the requirements of the program and align the algorithm accordingly. Algorithm is used to create well defined steps to provide the solution, where the Pseudocode is a method to represent an algorithm in a simple way to describe the instruction like using keywords to represent the algorithm. 
+
+
+Also pseudocode doesn’t have any standards to write, the programmers or designers use their own style. Also it can translate to any  computer language and is easier to modify. Also evaluate all possible solutions. It is created to avoid the errors and bugs and also used to organize our thoughts without any interruption while creating the program.
+
+
+Also I have created the simple pseudocode for the program adding two number how much i have learnt, And also trying to practice the same for different programs, And then we had a session with Abraham at afternoon, in that session he described us have to understand the problem whether it is solvable or unsolvable, and also showed us a two cheese board problem, one among that white has 3 steps to checkmate and another has 262 steps to checkmate, in that he taught and we learnt should know some problems can easily solve by computer where we take lot of time to solve, so have to categorize the problem, And also gave us the problem which is p!=nP, and asked us to check it and to know the reason. 
+
+While I have checked I came to know that this is a problem which doesn’t have a solution by the computer. I have seen no proof has yet been established for either P = NP or P!=nP. And also checking it still  now, it's very exciting to know the solution for this kind of tough problem. 
+

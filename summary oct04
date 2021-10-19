@@ -1,0 +1,41 @@
+Assignment: 04-10-2021:
+
+I have learnt about web applications, It works as once the link entered in the browser it will search for its storage in the main server and once it found it will request the server to access then the server responds back and it will show the graphical interface it is the front end of the application. Web servers are used to store the website links and web application data and deliver the graphical design in the mobile or desktop or laptops. Also web servers are accepting the multiple requests at the same time by using the sub processes in the multiple ports with sockets. Also every port has different serial numbers.
+
+Web application are used by links stored in server once we trying to access the link so it will send the the request to the server and it respond back with the graphical interface in the desktop or mobile.
+
+Database is the collection of data and informations, And it differs from the server as they can store the website and web application data where the database stores the overall data from internet and application also managing that securely, also works by accessing the information stored in database, And servers and database are made up of  with magnetic tapes same as hard disk. 
+
+OSI - object system interconnection, it used to transfer the info of software from the one system to the another system, and also has a different layers such as, 
+
+Physical
+Datalinks
+Network
+Transport 
+Session 
+Presentation
+Application 
+
+
+Physical - to transmit the bit from physical medium, physical medium is nothing but transferring data across the network.
+
+Datalinks - To Transfer data frames without any errors and interruption
+
+Network - Used to transfer and move the information or data from source to destination
+
+Transport - To provide reliable message delivery from process to another process
+
+Session - It used to establish, manage and determinate the session, for opening, closing and managing a session between end-user application processes
+
+Presentation - to translating between the apps and hardwares like translating the hardware language into the suitable application language
+
+Application - Used to provide the service to the user in interface.
+
+
+Also known about TCP and IP. Transmission Control Protocol, It used to communicate between Application and internet protocol, And it  used to identify the breakdown, transmitted and routed, TCP used to create communication channels also to  know  how messages to be broken down to be transmitted, IP used to know destination of the data received or send, And IP used to standardize the data management. 
+
+
+HTTP used to communicate between the web browsers and web servers, also is used to transmit the hypermedia documents, gives users a way to interact with web resources such as HTML files by transmitting hypertext messages between clients and servers. HTTP works along with Transmission Control Protocol (TCP) connections to communicate with servers. It’s like as the foundation of any data exchange on the Web
+
+Mac Address, a hardware identification number that uniquely identifies each device on a network. Its a network address in communications within a network segment. It is given to a network adapter when it is manufactured. 
+

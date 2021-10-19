@@ -1,0 +1,22 @@
+SUMMARY FOR  WEEK-2
+
+
+
+This is my second week of my internship, and I really learnt some new things which I thought would never get into my mind, and it's really interesting to learn such things in this atmosphere. And for this week I’ve learnt about web application, osi layers, algorithms, pseudocode and sorting.
+
+Web application are used by links stored in server once we trying to access the link so it will send the the request to the server and it respond back with the graphical interface in the desktop or mobile.
+
+Database is the collection of data and informations, And it differs from the server as they can store the website and web application data where the database stores the overall data from internet and application also managing that securely, also works by accessing the information stored in database, And servers and database are made up of  with magnetic tapes same as hard disk. 
+
+OSI - object system interconnection, it used to transfer the info of software from the one system to the another system, and also has a different layers such as, 
+
+TCP and IP. Transmission Control Protocol, It used to communicate between Application and internet protocol, And it  used to identify the breakdown, transmitted and routed, TCP used to create communication channels also to  know  how messages to be broken down to be transmitted, IP used to know destination of the data received or send, And IP used to standardize the data management.
+
+    Also known about the mac address, the unique identification number used in hardwares of computers to know the exact location to send or receive the file.
+
+    And learnt about algorithms and pseudocodes. Algorithm is an set of instructions to do the program without any mistakes and any interruption. Its like a valid steps to do the program easily without hurdles. pseudo code is an artificial and informal language that helps programmers to develop algorithms. It shows the dependencies are to be indented. Also a text based detail similar to algorithms.  It is used as a phrase to write the code for a program before creating it in a specific language which means planning the algorithms with sketching out the structure before the actual coding takes place. It  is an efficient key principle of an algorithm. Also pseudocode doesn’t have any standards to write, the programmers or designers use their own style.
+
+    And also for the entire week morning session was conducted by sreeram and he showed us how  to develop the application by using the codes, and also showed us how to authenticate it in Firebase, Firebase  is a website used to authenticate the app for the login purpose, and also explained us how the login works, it has a two token one has a validity of 5 imns and temporary token used to get a token of 5 mins validity to access the application. And temporary token has 3 months validity.
+
+    Also known about sorting, it is used to rearrange the numbers or data in a computer by analysing the size of it and repositioning it in the correct order. And also helped my mentor to get the currency codes and numbers of countries to use while programming. And  its also new for me, and expecting to know more with curiosity
+
