@@ -1,0 +1,250 @@
+APP: Admin UI
+
+1.login page
+2.Homepage
+3.List of activities
+4.Chatbox
+5.Wallet option
+6.Estimator
+7.Pre production
+8.Post production
+9.In production
+10.Admin panel
+11.Properties and object used
+12.Setting
+13.ME
+----------------------------
+LOGINPAGE:
+Username
+Password
+Sign up/Sign in
+Account which gonna be used to login
+Forgot password
+Mobile number
+DOB
+Language
+
+HOMEPAGE:
+My wallet
+To show the overall balance
+Transactions
+Movies
+Under  Production
+Pre-production
+Post production
+Movies Gonna release
+Released Movies
+Chat box
+User
+Search Icon
+Message Setting
+Chat setting
+
+
+
+Me:
+Profile Picture
+Designation
+Mobile Number
+Email
+DOB
+
+Estimator:
+Budget Estimator
+Overall Estimated Budget
+Send to film maker
+Convert into PDF
+
+Admin Panel
+Verify that you’re producer
+Give/Deny access of film maker
+Remove film maker/film
+Provide Username/password
+
+Setting
+Privacy
+Font size
+Theme
+About the app
+Logout
+
+
+MOVIES:
+UNDER PRODUCTION:
+Production #
+Overall budget
+Amount spent
+Amount left
+Casting & Makers Info
+
+PRE PRODUCTION:
+Filtered Script
+Estimated budget
+Allowed budget
+Script reg info
+Casting and Film makers info
+
+
+
+POST PRODUCTION:
+Films
+Music
+Dubbing Budget/Info
+Editing budget/info
+CG budget/Info
+Grading and DI Budget/Info
+
+
+MOVIES GONNA RELEASE:
+Films
+Scheduled Date
+List of theaters
+Distributor
+Casting data
+Script/making Data
+Studios
+Properties and object
+
+RELEASED MOVIES:
+Films
+Released date
+Casting
+Makers info
+Casting
+Budget spent
+Turnover Amount
+List of theaters
+
+
+ESTIMATOR:
+Camera -Quality, Days, No of persons required
+Lights - Quality, Days, No of persons required
+AD’s - No of Workers
+Co-Dir’s  - No of Workers
+Food - no of Person, Days
+CG - No of Shots
+Music - No of Songs
+Dubbing - Hours per day, No of Days
+Locations -  No of Days
+Stay - No of Days
+Casting - No of Days.
+
+
+APP : User UI
+
+Login Page
+Homepage
+Movies
+Estimator
+Properties & Object used
+Setting
+Me
+Chat box
+
+
+LOGIN PAGE:
+Username
+Password
+Sign up/Sign in
+Account which gonna be used to login
+Forgot password
+Mobile number
+DOB
+Language
+
+
+HOMEPAGE:
+Films
+Chatbox
+Estimator
+
+
+MOVIES:
+UNDER PRODUCTION:
+Production #
+Overall budget
+Amount spent
+Amount left
+Casting & Makers Info
+
+PRE PRODUCTION:
+Filtered Script
+Estimated budget
+Allowed budget
+Script reg info
+Casting and Film makers info
+
+
+
+POST PRODUCTION:
+Films
+Music
+Dubbing Budget/Info
+Editing budget/info
+CG budget/Info
+Grading and DI Budget/Info
+
+
+MOVIES GONNA RELEASE:
+Films
+Scheduled Date
+List of theaters
+Distributor
+Casting data
+Script/making Data
+Studios
+Properties and object
+
+RELEASED MOVIES:
+Films
+Released date
+Casting
+Makers info
+Casting
+Budget spent
+Turnover Amount
+List of theaters
+
+ESTIMATOR:
+Camera -Quality, Days, No of persons required
+Lights - Quality, Days, No of persons required
+AD’s - No of Workers
+Co-Dir’s  - No of Workers
+Food - no of Person, Days
+CG - No of Shots
+Music - No of Songs
+Dubbing - Hours per day, No of Days
+Locations -  No of Days
+Stay - No of Days
+Casting - No of Days.
+
+CHATBOX:
+Users
+Search Icon
+Message Setting
+    Notification
+    Attachment Option
+Chat setting
+    Privacy
+    Chat Theme
+    Search option.
+
+ME:
+Profile picture
+Designation
+Mobile Number
+Email
+DOB
+
+
+SETTING:
+Privacy
+Font Size
+Theme
+    Dark
+    Bright
+About App
+Logout
+
+
+

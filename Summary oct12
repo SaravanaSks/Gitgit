@@ -1,0 +1,61 @@
+SUMMARY 12-10-2021    
+
+This morning, I went through the spec files, why they are needed, and how it's useful to programming. Spec files are used to list out the specification what program needs to be built with and how it should work, And it is used to create the program easily without any flaws, as well as all the actions necessary for the rpm command to install and remove the application. RPM command used in it, Defines all the actions also.
+
+
+    And then the mentor gave me a problem to solve by using the Problem solving method. The problem is Puzzle,
+ RAGNAROK RIDDLE PUZZLE,
+
+UNDERSTAND THE PROBLEM:
+    Thor and odin have to defeat the serpent with Odin's last power along with Thor's hammer. Have to run on the serpent to defeat it and do not run on the same path more than once. Should destroy entire portions of serpent, if left anything it will regenerate.
+
+
+CONSTRAINTS:
+1.Have to find the path to defeat the serpent
+2.Should run on the entire body of serpent
+3.Do not run on same path or edge more than once
+4.Do not leave a single  part, have to destroy entire portions. or else it  will regenerated
+5.Odin only has his last power, no more chances.
+
+
+LIST OF  POSSIBILITIES:
+
+1. Every vertex is even except two vertices, that two is odd.
+2. Check whether it will solve or not,
+3. can run on the same dot as an intersection, but do run on the same path.
+4. They has power to use once as a last time to defeat the serpent.
+5. Can destroy the entire body at once
+6. Name the vertices with numbers.
+
+ARRANGE THE POSSIBILITIES DETAILY:
+
+1. He can start the run from the vertex which is odd, that vertex has three ways to start a run.
+2. Thor can run from that vertex as in wave type.
+3. If he started from even vertex, he can't complete the run.
+4. And he should cross the same dot more than once to complete the run to destroy the serpent.
+5. If he started from odd vertex then he can destroy every portions
+6. He can end the run at another odd vertex.
+    It was a little easy because I learnt about the vertex and eulerian path before, so I tried to solve it by starting from an odd vertex and it worked in this puzzle.
+
+
+    And then learnt about server and a little bit of database, Server is used to share the resources from one computer to the another by network. It used to collect and send information by network. Server stores , sends and receives data and also exists to provide information to devices. 
+    Servers used to serve information from one system to another by connecting  it, Clients used the server by internet and used to store their information about their organizations or data to be shared, users also can connect to the server and can access the file and information they need.
+    
+Web servers are accessing the request who searched with the domain name or link,it will accept the request and respond back to the user's desktop or laptop as a graphical screen. And it stores the data in a storage server to access, secure and manage digital data, files and devices. It is also called as file server.
+
+
+Database is an organized collection of structured information, or data, typically stored electronically in a computer system. It used to store all the data and can access when we have to do, Its has some types as 
+
+Hierarchical database
+Network database
+Relational database
+Object oriented database
+
+    Hierarchical database is a data model in which the data are organized into a tree-like structure. And it has one parent and multiple children as a structure.
+
+    Network Database can create a multiple member records or files can be linked to multiple owner files, its upside down tree structure
+
+    Relational database is a column and row structured database that can hold attributes of the data, and each record usually has a value for each attribute, making it easy to establish the relationships among data points.
+
+    And I’m still trying to learn about the object oriented database and about the database structures also its importance and function.
+

@@ -1,0 +1,31 @@
+ALGORITHM TO REARRANGE THE 100 NUMBERS;
+
+
+Analysing the problem.
+If you can understand
+If it's easy try to solve 
+If not try to understand the problem
+If not check with the system to solve it
+If you get a hint, try to solve it. 
+If not analyse the numbers where it is placed.
+If  you analysed use the comparison method
+Like num1 < with each numbers of 100
+If it lesser than any number
+Keep it in same place
+If not lesser than that number
+Rearrange it
+Compare the num 2 with each  number
+If it lesser than any number
+Keep it in same place
+If not lesser than that number
+Rearrange it
+Use same method as loop to comparing one number to another number
+Do loop until rearrange 
+Find the answer
+ 
+
+I think the generic method  is a Loop, So i used it.
+
+
+
+

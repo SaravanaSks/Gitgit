@@ -1,0 +1,35 @@
+Summary: 30-9-21:
+ 
+In Morning session Sriram showed us how to create a app, At first to create the app have to know the requirement of the app and the elements which has to be in the app, so have to list out that it will helps to develop the app in perfect order, And the app he tried to create can access in any features like iOS/Android and no scale size to open the app in screen, it can fix in any screen resolutions.
+
+Today we have discussed about the Problem solving and also how to divide the problem inti Constraints and possibilities to solve it, it was taught by Abraham, And also he gave us a puzzle to solve it within 30 mins, And we have divided into the group and discussed between us to solve that puzzle named as Alien Lock. After few many attempts found the correct way to solve that, it happened at our Morning session, 
+
+    After that we had another session with Abraham, and in that session we just disputed our answers to him, and also he provided the answers to that. In this case I have learnt how to know the constraints of the problem we’re facing. And to understand the problem very well by the limitations of that and can overcome with the solutions by satisfying the Constraints, and Also came to know that if  the problem is having many constraints have to find out the possible ways to solve and then rearranging in perfect order, and then have to solve the ways in possible order we got.
+    In this session I came to know the different ways to solve problems by understanding it, and also knew the basics about the Breakdowns, and it leads to divide and Conquer. If we need to find the easiest way to solve the problems, first we have to breakdown the problem and divide it into several steps and analyse everything that it contains, and then solve step by step and develop it into one thing. 
+
+And then I have learnt how hardwares and softwares work together. The OS is used to communicate and convert the information from the hardware into the computer language, Hardwares are made with embedded language which means an extension to an application. And OS are written with  the medium level languages  like C and C++ not much complicated.
+And softwares or Applications are used to perform the process the user needs to do. And these are developed with High level language which are used to develop the Application, And in system it has two different methods to access they are UI(user Interface) and Command line,
+UI is an user-friendly way to access the system easier. And Command lines are used to access the files  or folders by Commands.
+
+And then I learnt some Command to perform the progress by using the Command lines in the terminal. And by using it I have practiced creating a folder and created the Text file and typed something also saved with the code :w, also used the code :wq to get to the terminal and then moved and copied the file by using the code “mv” and “cp”. And practiced to rename  the file by using the command line mv ./<filename> ./<renamed>, also created the directory by using “mkdir” and deleted the directory by using “rm -r”. And the tried to remove the file by using the command “rm”.
+     Created the file by using the ‘touch’ command and edited  it in the vim editor by using the command “vim”.
+Command lines what I learnt today:
+
+cd                             - Change Directory
+cd .                             - Current Directory
+cd ..                             - To parent Directory
+ls                             - list the Files/Folders
+touch                             - To create File (eg:. txt, pdf)
+vim                             - To edit the file
+i                             - Insert
+Esc                             - To back to command line in file
+rm                             - To remove the File
+mkdir                         - To create the directoryor Folder
+rm -r                          - To remove the Directory
+mv                      - To cut or Move the folder/file
+cp ./<filename> ./<foldername>      - To copy the Folder/File
+mv ./<filename> ./<renamed>     - To rename the file
+
+
+And also had a Assignment to breakdown the App into the data and UI as per the format I was taught.
+

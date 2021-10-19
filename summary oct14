@@ -1,0 +1,18 @@
+SUMMARY 14-10-2021
+
+
+This morning, I first read about Github and its usage. Github is like a Google Drive where we can store the Files and codes in that and also it has a view option like we can leave the file in Public or Private. And also it has a main repository and it can have branches like a team can use the main repository and they can push their code into their own branches and once it is done it can be pushed into the main repository. And at first it was very difficult,
+
+And Once I installed the git by using a command “sudo yum install git” in terminal, and then created the repository in it and at first I dragged a file and posted into the git manually and then tried by using command and  first I have created the file in local and then used a git init command, And before that used command
+
+
+git config –global user.name “[name]” and git config –global user.email “[email address]” used to config the credentials. 
+
+And Used git status command to know the file tracked or not , then git add . or git add[filename] used to add file and also used Command git log to know the version of the file, and My mentor was generated the shh key by using the link and valid command and then also i was able to add a file into it and still trying to do it by my own, but it's confusing me little, and then also asked Jerfin about how the git works and usage of it.
+
+And in the afternoon Abraham anna conducted a session of culture talk. This is our culture talk after joined an internship, and its very new to use. Anna talked about who we are and the link that we carry with us unknowingly, that all are right things that I didn’t realise before this session. He talked about the few things which was related to me and everyone’s life, I was watching him admiringly and came to know that we have tied with that knot all the time, if we do something irrelevant then we have to face the consequences, 
+
+And then he asked us the question which was What is the difference and opinions on Responsibility,Duty,Obligation and Dharma, and he asked us to become a team which has only one intern, Me askin Anna, joel and Winall anna formed a team and discussed about that and they explained me very well, And then Anna took a session and One of team explained what they discussed and he asked other teams to convey the same on next week as he had a meeting, In session he said that this Organization formed to work with fun as community, and also said community should remains same in this organization, It really interesting thing to learn this day, 
+
+After Session i was tried to learn about the Node.js and node is an open source environment, also it works as send a task to system and waits while system read the file and return and ready to provide content. Also it can create, open, read, write, delete, and close files on the server, And also add, delete, modify data in your database. And my mentor asked me to know about  javascripts. I started to learn it today.
+

@@ -1,0 +1,34 @@
+Assignment
+Command lines what I learnt today:
+
+cd                             - Change Directory
+cd .                             - Current Directory
+cd ..                             - To parent Directory
+ls                             - list the Files/Folders
+touch                             - To create File (eg:. txt, pdf)
+vim                             - To edit the file
+i                             - Insert
+Esc                             - To back to command line in file
+rm                             - To remove the File
+mkdir                         - To create the directoryor Folder
+rm -r                          - To remove the Directory
+mv                      - To cut or Move the folder/file
+cp ./<filename> ./<foldername>      - To copy the Folder/File
+mv ./<filename> ./<renamed>     - To rename the file
+
+
+cd used to change the directory in the path
+cd. Used to be in the same current directory
+cd.. Used to get back to the parent folder
+ls to list the items in the folder
+touch to create the file whether it can be text, pdf or anything it depends
+Vim to edit the file what we have created 
+i is an insert that used to type or to input
+esc to get back to the command line in the the file we  using it helps to do save and quit path
+rm to remove the file we have saved
+mkdir to create the directory in our required place
+rm -r to delete the directory if we don’t need that
+mv to move the file or folder  from on path to another
+cp ./<filename> ./<foldername>  to copy the file or folder  from on path to another
+mv ./<filename> ./<renamed>  to rename the file or folder what we have to,
+

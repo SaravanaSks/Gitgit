@@ -1,0 +1,60 @@
+SUMMARY 18-10-2021:
+
+    
+
+Today, I have learnt about the HTML and CSS tags and its usage, and also tried to create a design by using it eventually. And I have continued  the work which was pending, And actually I created the webpage by using html tags in proper way, and also added the buttons,text fields and text area in that, but unable  to equal spacing it,
+
+So asked some doubts with others and after that tried to do equal spacing by using some tags, but then also i can't do that, so again tortured them asking a doubts to getting a clear view about that, at first I have created the text with the  p tag and its not useful for me to align the text and boxes at exact place, so then checked in web and found that if we have to add the text with text field or button we can use the tag label to it for  the better alignment, and used the form tag at initial stage, element can contain one or more of the following form elements, and then checked the output it shows the correct alignment for the entire text with text field and button.
+
+Then I also found the body content moved to center then it collapsed the alignment, so  after some search I used the margin-left tag to move the body into center, and also used the display: inline-block  set width and height values. block The element will start on a new line and occupy the full width available. And then opened the file  to reflect the output that I want, then also tried to add some commands for style, like changing the background, and for that i  used the command background-image: url('image name.jpg'); then used some tags to modify and also fo my practice, and then 
+body{
+background:orange;
+}
+
+Used this tag to change the background into orange, and the program i created was 
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Generator</title>
+ <style type="text/css">
+label{
+ width:100px;
+ display: inline-block;
+}
+.Data{
+margin-left:40%;
+}
+body{
+background:orange;
+}
+
+</style>
+</head>
+<body>
+<div class="Data">
+<div id="form">
+ <h1>Welcome to Project Generator</h1>
+<form>
+<label>Language:</label>
+<select Language="Language" id="Language">
+    <option value="English">English</option>
+    <option value="French">French</option>
+    <option value="Espanol">Espanol</option>
+  </select><br>
+<label>Database Name:</label>
+<input type="text"><br>
+<label>Tables:</label>
+<input type="text"><button type="button">+</button><br>
+<label>Tables Name:</label>
+<input type="text"><br>
+<label>Tables Description:</label>
+<textarea id="Tables Description"></textarea><br>
+<button tye="button">submit</button>
+</form>
+</div>
+</div>
+</body>
+</html>
+
+After this, I have tried to create another program on my own. And kaushik gave us 8 problems to solve by writing the output and algorithms. And we interns discussed together after the office hours, and found some outputs and solutions for those problems and wrote that in paper. Kaushik asked us to complete it before the next session, so we’ve completed that. 
+

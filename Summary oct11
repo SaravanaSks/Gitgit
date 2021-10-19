@@ -1,0 +1,17 @@
+SUMMARY 11-10-2021:
+    
+    
+
+    This is First day of the third week of my internship, And I went to the office with excitement about  learning new things. Initially in the morning my mentor taught me about syntax. And also said it has constant and let, we can use these while programming, constant means If we added the variable as input we cannot change that once we input the data, And in let we can edit the input when we have to change. And also learnt that Const is a command of declaration and definition. And also gave me an introduction of loops that used to repeat the same operation until the end command was used.
+
+
+    And then the mentor asked me to explain the problem solving method, and I explained that with the hamiltonian path, as needed to understand the problem, List the constraints, list the possibilities and arrange the possibilities. And also explained to him how to do that step by step. And then mentor gave me puzzle and asked me to solve by write down by using problem solving method, and then I have wrote how I understood the problem, and then wrote the constraints, and it was difficult to find the possibilities, at one time i found  some possible way to solve it, so i listed the possible ways and then rearranged and elaborated as Arranging the possible ways.
+
+    Then I had a session with sreeram, and he explained how the algorithm works and how to write  it down by using the problems which were given by kaushik the other day to write the algorithm. And also explained by writing on a whiteboard and showed it should work in this way easily and  it's really interesting to learn such things here, and also explained why it's needed and its function.
+
+    
+    After the session, again mentor gave me two problems to do same as a previous problem, and asked to solve it by using the problem solving method, and its really interesting to solve the problems by knowing the problem, list the constraints and possible ways. And I have done the second problem and the third one was really difficult to find that still trying to solve it on my own, and also wrote the constraints for that and list out the possible ways. And its making my mind work continuously…
+
+
+    And then Abarham anna asked my mentor to make me to write the spec file, And this is the first time I’m hearing that for the first time and also don't know what it is, And asked winall anna about that , he explained that spec file is nothing but the list of specifications used to list out how the program should work and its functions, for example: Manufacturing of mobile as initially listed the specification how it should be look and works, It was really easiest way to understand that, and also said every program should have unique specification. Still trying to learn more about the spec file and its defines all the actions the rpmbuild command should take to build your application, as well as all the actions necessary for the rpm command to install and remove the application.
+
