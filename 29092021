@@ -1,0 +1,89 @@
+Assignment: 29/09/2021
+
+
+What I learn;
+
+I have learnt about the basic of the hardwares used in computer CPU and the functions of that, They are
+
+Control unit
+RAM
+ROM
+Arithmetic Logical Units(ALU)
+Buses
+Accumulator
+
+Control Unit: The unit operates the system by using the data given by the memory unit
+RAM: Storing the data temporarily to works the system(volatile)
+ROM: To store the data and can read what we have saved
+ALU: Working by using the mathematical units of the system
+Buses: Used to send a signal and data to the devices from the Processor
+Accumulator: Is an 8-bit register also to store the 8 bit data and perform the arithmetic and logical programs.
+
+
+Control units: To perform the process by controlling all the parts of the system as per the  instruction given by the user.
+
+Also it directly controls the functions of a memory unit & ALU and also with the input and output devices,
+
+Types in Control unit:
+
+Hardwired
+Microprogrammed control unit
+
+Hardwired:
+     Fixed logic circuit to corresponds directly to the Boolean expressions(logical statement).
+
+
+It works with the Finite State Mechanism(FSM):
+Mathematical model of Computation
+A system were particular inputs cause particular changes in state can be represented using finite state mechanism.
+
+
+Microprogrammed Control Unit: The unit saved the binary control values in the word in memory
+
+
+
+
+Mentor’s session:
+
+
+Explained me how the system works by using the data inbuiled in the CPU and how transistor works,
+
+RAM: Primary Memory
+ROM: Secondary Memory
+CPU: Processor 
+Cache: Temporary Memory
+
+
+
+And when the system turns on the electric energy passed to Processor and it tranfer it to RAM and it Starts the process by help of secondary memory which stores the overall data.
+In modern computers Cache placed B/W the Processor and RAM to make the process quicker then past.
+
+
+Number representation
+Binary Representation of positive integers, each digit in binary numbers are called as  bit, Computers are designed to use binary digits to represent numbers and other information. The computer memory is organized into strings of bits called words of same length. Decimal numbers are first converted into their binary equivalents and then are represented in either integer or floating point form.
+And the binary number are only 0 - 1.
+In system transistor if  the Bit has a power it will be 1, if there is  no power it will be 0.
+Normal Memory Flows: Inputs,Outputs,Process and Storage.
+A control center that converts data input to information output. This control center, called the central processing unit (CPU), is a highly complex, extensive set of electronic circuits that executes stored program instructions. And storage used to store the data.
+
+
+
+How word convert to computer defined language: Each word has a separate UNICODES to define into the system language, Once the data inputs starts the process it send into the transistor and it defined by the suitable bit.
+
+
+
+Difference between Primary memory and secondary Memory:
+    Primary memory, also known as the main memory, is the area in a computer which stores data and information for fast access. Semiconductor chips are the principle technology used for primary memory. It can’t store the data once the system gets turned off
+    Secondary memory, On the contrary, secondary memory is the external memory of the computer which can be used to store data and information on a long-term basis. It’s a non-volatile memory which means data stays intact even if the computer is turned off. Data cannot be directly processed by the processing unit in secondary memory.
+
+
+Why computers use binary numbers
+    The circuits in a computer's processor are made up of billions of transistors. A transistor is a tiny switch works by the electronic signals. The digits 1 and 0 used in binary reflect the on and off states of a transistor. It means If the Bit has a power it will be 1, if there is  no power it will be 0.
+
+
+Why RAM is expensive than hard disk:
+    RAM is used to increase the speed, while the hard disk is used to increase the storage space. RAM is very expensive because of the used semiconductor in it, while the hard drive is less expensive because of the use of magnetic tape just to store the data and not to increase the speed.
+
+
+
+
