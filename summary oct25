@@ -1,0 +1,16 @@
+SUMMARY - 25 oct
+
+
+
+    This morning at first I continued to know about how to group the entire classes in one element, for that I searched a lot of things in google regarding this and tried some ways to solve it, but again I can’t. At that time Abraham anna called every intern for the session. In that session Anna asked about the work which was given by him on friday to learn about Register, Adders, Multiplexer and Gates, Gates are the basic building blocks of any digital system. Also it can have more than one input but only one output. Register is a temporary storage location to hold data, storing small amounts of data that need during processing.
+
+    
+    Adders are digital circuit that performs addition of numbers in the computer, and after that he started to taught about the glyphs,tokens and block, glyphs are the symbols and tokens are the word, block are similar to the sentence, And also taught about the compiler and how it works, and also said that we have to  create the own programming language as a compiler, that will be also our project in this internship, and asked him to explain that and then he explained detaily.
+
+    So the compiler has some stages that are used in computers to perform the perfect programming language, it has tokenizer, syntax analysis, semantic analysis and code generation. Tokenizer is used to know the single word, and syntax analysis is used to verify the sentence of the program we're gonna use, and semantic analysis is used to verify whether it makes sense or not, and then only the code generator will generate the code. 
+
+
+    And then also said compilers are more important because computers can't understand the source code directly. So, the compiler is intermediate between human readable format and machine-readable format. And then asked us to show the abstraction of the lift which was given by him on last week, after checked he said its not the perfect way of abstraction and also explained that it means know the overall operations and data structure and how it works as per the input it received respectively, So he told us to do the abstraction for lift again, after the session we have discussed about how  to do the abstraction of the lift as per anna said, and it was little confuse for us and then we have tried to do that,
+
+    After that my mentor came and asked me to do some changes in the design which he gave, he told to create the character limit and also said that predefined value  should be string in both dropdown option, and also asked to show the alert if the input values less than minimum characters, So I have did the same in design, and now trying to do that minimum check box one should be checked before hitting the submit button, and also tried to make the alert if any text field is empty before submitting. 
+
