@@ -1,0 +1,15 @@
+SUMMARY-oct 26:
+
+
+    This morning after I went to office, we interns had a discussion about the abstraction of the lift again, and we found one basic operation like adding or subtracting the target floor with the current location where it was, this is how the lift analysing the floor, and every floor has a value then only it can travel from one to another, and we written it in our notes and then came back to the routine work which was the design to be completed,
+
+
+    And then I started to design that UI, and in that I used if and else if and else command to show the alert once one condition satisfied then only it will functioning the next condition in this process created the 4 alerts for the 4 textfield, and then my mentor seen that design and asked few questions about that, i don't have exact answer for few questions so I searched for that in google and found it and tried to understand it, after that mentor came back and explained that detaily why using that command with or gate not with any other gates and also asked to know the meaning for the tags and commands used in it, so then i just started to learnt about that,
+
+
+    After sometime mentor asked me to do some validation in the design and also asked to create the common alert box for the alert boxes if it left blank while submitting, so I tried to that and before that I took a glance about it to know how to do by using java scripts, and found some few commands how to create it, so then started to do that by using the javascripts, but it won’t work at first, so then started to learn free more about it and also my mentor said to create the variable in if command and then use the alert command for each alerts in one thing, so i tried to do that with it,
+
+    At that  time, Abraham anna called every interns for the session, and we have gathered in a room, and anna started to teach about the compiler and declarations in javascripts, in javascripts let declaration used to change the variable if we need to change it in any time, and also said const is means a constant value that can’t change the value once the input given then it will through an error, And also taught about how the let and const used in the javascripts and also explained us how the syntax should be used in it by displaying the flow chart of the function how it  would be, 
+
+    Also explained about what is null and also said that the compiler needs to create  with the strings, numbers, boolean and null then only the programming language will works correctly with the flow of compiler works, and also said we should submit it on this friday, also said he will teach us how to create it detaily by tomorrow, so we are trying to learn about such thing by our own along with the work which was given by my mentor, 
+
