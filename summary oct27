@@ -1,0 +1,17 @@
+SUMMARY oct-27:
+
+
+    
+    This morning I have started to design the UI which was given by my mentor, So for that I created the alert for the entire text field in that, but it does not look perfect  in that. So I tried to make some changes in that, but that also did not look good, so I tried to learn something regarding this to do that. After that I used some js commands in that and responded back. The mentor saw that and asked me to do some changes in that like alignments and the cursor pointer, so I came back and took a glance about how to do that, and did the same. Also did the worst code for the alert boxes, so he asked to change it as well.
+
+
+
+    I have created the string for each text  fields which will shows the alert while it left empty, and did the same for each boxes, and it showed alert also after it filled, so i tried to figure out the problem what i did and found that i didn’t even use the if and else if in proper way, so i rewritten it in correct way and tried it was work, And after that I did that alert boxes which can shows only those things left empty and clicked on submit.
+
+
+    And then I tried to learn about the validation which I need to do, and then anna called every intern for the session. We gathered together in a room, anna came and asked about yesterday's session, what we learnt, and we explained what we learnt after the last day's session. And in own search about it, after that anna started to taught about the object and arrays, and said that Object had a propertied which we are writing in the program it contains key identifiers and  value in punctuator blocks, And also said that in object we can read, create,update and delete the properties, and also taught us how the object should be, 
+
+    Arrays are used to storing the values and updating the values, it has a numeric keys or index as the one input’s value, also used to display the input by  using the suitable index, also change the value of input by using the index number and update that easily, also said null means there is no value as undefined or void both having the same meaning, And in that session we got little better view about the array and object and anna asked us to learn by our own, and also taught that length command uses to know the numbers of values in arrays, And the session ended,
+
+    After i came back, I started to learn about such things by searching in google and tried in browser how it works, and then i started to design that UI to show the alert in correct way, I did and showed it to my mentor, after he saw that he did some changed in it and said it is very simple way to do, but I did complicatedly by adding the every string together, after he said it was good but asked me to learn like this to make easy readable programs for others understanding, and now trying to display the inputs in the tables. And also trying to do some js in it. 
+
