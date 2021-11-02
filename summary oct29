@@ -1,0 +1,16 @@
+SUMMARY Oct 29:
+
+
+
+    Today, after I went to office, I just started to design that UI which I need to complete it, so for that I searched  some required commands that i  need to use  in this UI and also leant few new things while searching it like how the way the program should be written, and also knew about how it read the commands that we used in the program, So i started to do some changes in it by using the command and javascripts to add the action while clicking on the submit button.
+
+
+    And then i did half of the work and I was stuck because unable to get the values of the text fields, so I went to my mentor and asked few doubts regarding this, and he also tried but it won’t work, so then he read the commands what i used and asked me to change the text field class name, so changed and then he tried by calling it in the js and it was work,  and then he asked me to do that same as one text field the inputs of all text field should store in array, so I came back and did the same thing, and checked whether it works or not, it  was work for the first time at my first try.
+
+    And then i started to arrange it in proper order and did some corrections in the program, at that time my mentor came and asked me that it has two sub-sections under the database name so once i clicked the submit button it should store the entire data of the all text field, and then when i clicked on table plus button it should store the inputs of it and text properties, and also same as text properties as clicked on that plus button it should save the property name and its type under the same database and table. 
+
+    For this I started to create the different function for the entire sub-sections and also call the class names in the java scripts by using the document.getElementsByClassName(“className”).value, and it was worked to get the inputs of the text fields and also set the array for each functions, and checked whether it working or not, it was work, but I thought that it was not  the proper way to store the all inputs by using different arrays, so I called multiple functions on one click, and it was looked pretty good than the previous one, so saved it in that and checked few things in the program, 
+
+    
+    And then Abraham anna came and called us for the session, and in that session he taught us about what is function in javascripts and how it works and how to create it in the program, and he just explained in a very simple and excellent method that asked us to assume the function as a box and we can put any inputs inside the function and also said it will works as the operation what we expect that we should explain the computer that how to do that. And after session he asked us to practice that by our own to get the good view in it, and we practiced it  in the console, and at that time demo meet also started and everyone showed demo and explained how they worked this week, and the day went good.
+
