@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Generator</title>
+ <link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap">
+  <style type="text/css">
+
+label{
+ width:250px;
+ display: inline-block;
+}
+
+.name{
+margin-left: 6%;
+}
+
+.Data{
+margin-left:35%;
+}
+
+textarea{
+margin-top:8px;
+margin-bottom:8px:
+}
+
+.TableName{
+margin-top:8px;
+margin-bottom:8px;
+border-radius: 30px;
+border: 1px solid #848484;
+outline:0;
+height:25px;
+width: 240px;
+padding-right:10px;
+margin-left: -6%;
+text-indent:12px;
+}
+
+
+.PrimaryKey{
+margin-top:8px;
+margin-bottom:8px;
+border-radius: 30px;
+border: 1px solid #848484;
+outline:0;
+height:25px;
+width: 240px;
+padding-right:10px;
+text-indent:12px;
+}
+
+.PropertyName{
+margin-top:8px;
+margin-bottom:8px;
+border-radius: 30px;
+border: 1px solid #848484;
+outline:0;
+height:25px;
+width: 200px;
+margin-left:-5%;
+text-indent:12px;
+}
+
+.Property{
+margin-top:8px;
+margin-bottom:8px;
+border-radius: 30px;
+border: 1px solid #848484;
+outline:0;
+height:25px;
+width: 200px;
+margin-left:-5%;
+text-indent:12px;
+}
+
+
+body{
+background-image:url('https://prezentr.com/wp-content/uploads/2016/10/API-PowerPoint-Background.png');
+background-size:cover;
+font-family: 'Inconsolata', monospace;
+color:#ffffff;
+}
+
+.a{
+text-align:center;
+}
+
+.b{
+margin-left:38%
+}
+
+select{
+margin-top:8px;
+margin-bottom:8;
+border-block-width: thick;
+}
+
+button{
+margin-top:8px;
+margin-bottom:8px;
+border-radius:50px;
+margin-left:50%;
+}
+
+.PrimaryKeyType{
+border-radius:30px;
+border:1px;
+text-align:center;
+font-size:100%;
+height:30px;
+width:100px;
+background-color: #008ee7;
+}
+
+.PropertyType{
+border-radius:30px;
+border:1px;
+text-align:center;
+font-size:100%;
+height:30px;
+width:100px;
+background-color: #008ee7;
+margin-left:-5%;
+}
+
+
+.Database{
+margin-left:28%;
+}
+
+.Table{
+margin-left:28%;
+}
+
+.Database1{
+margin-left:7%;
+margin-top:8px;
+margin-bottom:8px;
+border-radius: 30px;
+border: 1px solid #848484;
+outline:0;
+height:25px;
+width: 275px;
+padding-right:10px;
+text-indent:12px;
+}
+
+.Plus1{
+margin-left:22.5%;
+}
+
+.Plus2{
+margin-left:11%;
+}
+
+.TP{
+margin-left: 40%;
+}
+
+.check{
+display:flex;
+padding-right: 450px;
+padding-left: 50px;
+}
+
+.overall{
+padding-right:5%;
+}
+
+
+alert{
+}
+
+
+</style>
+</head>
+
+<body>
+<form id="myGenerator">
+<h1 class="a"> Welcome to Project generator</h1>
+
+<!--<div id="form">-->
+<!-- <h1>Welcome to Project Generator</h1>-->
+<form>
+<label class="Database">Database Name:</label>
+<input id="Field1" class="Database1" type="text" minlength="3" maxlength="15"><br>
+
+<label class="Table">Tables</label>
+<button class="Plus1" type="button" value="" onclick="myFunctionPlus1();myFunctionPlus2();ClearField()"> + </button><br>
+<div class="overall">
+<div class="Data">
+<label class="name">Table Name:</label>
+<input id="Field2" class="TableName" type="TableNameType" minlength="3" maxlength="15"><br>
+<label>Primary Key Name:</label>
+<input id="Field3" class="PrimaryKey" type="text" minlength="3" maxlength="15"><br>
+<label>Primary Key Type:</label>
+<select class="PrimaryKeyType" Type="Primary Key type" id="Primary">
+    <option value="string">string</option>
+    <option value="int">int</option>
+  </select><br>
+
+<p>Service Required:</p>
+<div class="check" >
+<input class="checkbox1" type="checkbox" id="option1" name="option1" value="Create" checked>
+<label for="option1">Create</label>
+<input class="checkbox2" type="checkbox" id="option2" name="option2" value="update">
+<label for="option2">Update</label>
+<input class="checkbox3" type="checkbox" id="option3" name="option3" value="read">
+<label for="option3">Read</label>
+<input class="checkbox4" type="checkbox" id="option4" name="option4" value="Delete">
+<label for="option4">Delete</label>
+</div>
+</div>
+<br>
+
+<label class="b">Text Properties</label>
+<button class="Plus2" type="button" value="" onclick="myFunctionPlus2();ClearField()">+</button><br>
+<label class="TP">Property Name:</label>
+<input id="Field4" class="PropertyName" type="text" minlength="3" maxlength="15"><br>
+<label class="TP">Property Type:</label>
+<select class="PropertyType" Type="Primary Key type" id="Primary">
+    <option value="string">string</option>
+    <option value="int">int</option>
+  </select><br>
+
+<button class="Alert" type="button" value="" onclick="myfunctionAlert();myFunctionPlus1();myFunctionPlus2();ClearField()">Submit</button>
+</form>
+
+<script>
+
+const tableProperties =[];
+const textProperties =[];
+
+function myFunctionG(){
+  document.getElementById("myGenerator").reset();
+}
+
+function submitPress(){
+location. reload();
+}
+
+function myFunctionPlus1(){
+console.log("from myFunctionPlus1");
+let tableName=document.getElementsByClassName("TableName")[0].value;
+let primaryName=document.getElementsByClassName("PrimaryKey")[0].value;
+let primaryType=document.getElementsByClassName("PrimaryKeyType")[0].value;
+
+let mark1=document.getElementById("option1");
+let mark2=document.getElementById("option2");
+let mark3=document.getElementById("option3");
+let mark4=document.getElementById("option4");
+let marks=[];
+let Cmark1, Cmark2, Cmark3, Cmark4;
+
+if (mark1.checked == true){
+Cmark1 = document.getElementById("option1").value;
+marks.push(Cmark1);
+}
+if (mark2.checked == true){
+Cmark2 = document.getElementById("option2").value;
+marks.push(marks,Cmark2);
+}
+if (mark3.checked == true){
+Cmark3 = document.getElementById("option3").value;
+marks.push(marks,Cmark3);
+}
+if (mark4.checked == true){
+Cmark4 = document.getElementById("option4").value;
+marks.push(marks,Cmark4);
+}
+
+tableProperties.push({tableName: tableName, primaryName: primaryName, primaryType: primaryType, marks: marks});
+console.log(tableName,primaryName,primaryType,marks);
+}
+
+function myFunctionPlus2(){
+console.log("from myFunctionPlus2");
+let propertyName=document.getElementsByClassName("PropertyName")[0].value;
+let propertyType=document.getElementsByClassName("PropertyType")[0].value;
+textProperties.push({propertyName: propertyName, propertyType: propertyType});
+console.log(propertyName,propertyType);
+}
+
+function myfunctionAlert(){
+let dbName=document.getElementsByClassName("Database1")[0].value;
+let txt1=document.getElementsByClassName("TableName")[0].value;
+let txt2=document.getElementsByClassName("PrimaryKey")[0].value;
+let txt3=document.getElementsByClassName("PropertyName")[0].value;
+let a=("Database Name: ");
+let b=("Table Name: ");
+let c=("Primary Key Name: ");
+let d=("Property Name: ");
+
+let temp1=("Database name must");
+let temp2=("Table name must");
+let temp3=("Primary key name must");
+let temp4=("Property name must");
+let op = '';
+
+if (dbName==null || dbName==""){
+	op = op + temp1 + "\n";
+}
+if(txt1==null || txt1==""){
+	op =  op + temp2 + "\n";
+}
+if(txt2==null || txt2==""){
+	op =  op + temp3 + "\n"; 
+}
+if(txt3==null || txt3==""){
+	op =  op + temp4 + "\n";
+} 
+
+if(op.length)
+alert(op);
+else
+alert(a+ "" +dbName+ "\n"  +b + "" +txt1+ "\n"  +c + "" +txt2+ "\n" + d + "" +txt3);
+console.log(dbName);
+}
+
+function ClearField(){
+        document.getElementById("Field1").value='';
+        document.getElementById("Field2").value='';
+        document.getElementById("Field3").value='';
+        document.getElementById("Field4").value='';
+}
+
+
+</script>
+</body>
+</html>
